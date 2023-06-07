@@ -55,7 +55,3 @@ You will also need an API key from OpenAI to access the language models.
 
 - **Quit**: To exit Jarvis, say "Jarvis Quit".
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
